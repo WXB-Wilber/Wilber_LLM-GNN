@@ -31,10 +31,10 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
 ## Wxb Alignment
 ### No Finetuning
 - (*arXiv 2024.10*) EAMA : Entity-Aware Multimodal Alignment Based Approach for News Image Captioning [[paper](https://arxiv.org/abs/2402.19404)] [[code](NANA)]
-- (*ICML 2023*) BLIP-2: Bootstrapping Language-Image Pre-training  with Frozen Image Encoders and Large Language Models [[paper](https://proceedings.mlr.press/v202/li23q.html)] [[code](https://github.com/salesforce/LAVIS/tree/main/projects/blip2)]
+- (*ICML 2023*) BLIP-2: Bootstrapping Language-Image Pre-training  with Frozen Image Encoders and Large Language Models [[paper](https://arxiv.org/abs/2408.14512)] [[code](https://github.com/salesforce/LAVIS/tree/main/projects/blip2)]
 
 ### Finetuning
-
+- (*NeurlPS 2024*) LLMs as Zero-shot Graph Learners: Alignment of GNN Representations with LLM Token Embeddings [[paper](https://arxiv.org/abs/2402.19404)] [[code](NANA)]
 ## Datasets, Benchmarks & Surveys
 - (*NAACL'21*) Knowledge Graph Based Synthetic Corpus Generation for Knowledge-Enhanced Language Model Pre-training [[paper](https://aclanthology.org/2021.naacl-main.278/)][[code](https://github.com/google-research-datasets/KELM-corpus)]
 - (*NeurIPS'23*) Can Language Models Solve Graph Problems in Natural Language? [[paper](https://arxiv.org/abs/2305.10037)][[code](https://github.com/Arthur-Heng/NLGraph)]
