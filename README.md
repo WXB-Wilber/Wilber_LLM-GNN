@@ -31,6 +31,7 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
 ## Wxb Alignment
 ### No Finetuning
 - (*arXiv 2024.10*) EAMA : Entity-Aware Multimodal Alignment Based Approach for News Image Captioning [[paper](https://arxiv.org/abs/2402.19404)] [[code](NANA)]
+- (*PMLR 2023*) BLIP-2: Bootstrapping Language-Image Pre-training  with Frozen Image Encoders and Large Language Models [[paper](https://proceedings.mlr.press/v202/li23q.html)] [[code](https://github.com/salesforce/LAVIS/tree/main/projects/blip2)]
 
 ### Finetuning
 
