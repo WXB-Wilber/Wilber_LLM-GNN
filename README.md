@@ -25,6 +25,12 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
   - [Contributing](#contributing)
   - [Star History](#star-history)
 
+## My Own (LLM+GNN+Alignment)
+### No Finetuning
+- (*arXiv 2024.10*) EAMA : Entity-Aware Multimodal Alignment Based Approach for News Image Captioning [[paper](https://arxiv.org/abs/2402.19404)] [[code](NANA)]
+
+### Finetuning
+
 ## Datasets, Benchmarks & Surveys
 - (*NAACL'21*) Knowledge Graph Based Synthetic Corpus Generation for Knowledge-Enhanced Language Model Pre-training [[paper](https://aclanthology.org/2021.naacl-main.278/)][[code](https://github.com/google-research-datasets/KELM-corpus)]
 - (*NeurIPS'23*) Can Language Models Solve Graph Problems in Natural Language? [[paper](https://arxiv.org/abs/2305.10037)][[code](https://github.com/Arthur-Heng/NLGraph)]
@@ -181,10 +187,6 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
 - (*arXiv 2024.10*) GraphRouter: A Graph-based Router for LLM Selections [[paper](https://arxiv.org/abs/2410.03834)][[code](https://github.com/ulab-uiuc/GraphRouter)]
 - (*arXiv 2024.10*) Graph of Records: Boosting Retrieval Augmented Generation for Long-context Summarization with Graphs [[paper](https://arxiv.org/abs/2410.11001)] [[code](https://github.com/ulab-uiuc/GoR)]
 - (*arXiv 2024.10*) G-Designer: Architecting Multi-agent Communication Topologies via Graph Neural Networks [[paper](https://arxiv.org/abs/2410.11782)] [[code](https://anonymous.4open.science/r/GDesigner-3063)]
-
-## MY OWN
-- (*arXiv 2024.10*) EAMA : Entity-Aware Multimodal Alignment Based Approach for News Image Captioning [[paper](https://arxiv.org/abs/2402.19404)] [[code](NANA)]
-
 
 
 
