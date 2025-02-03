@@ -9,6 +9,9 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
 
 - [Awesome-Graph-LLM ](#awesome-graph-llm-)
   - [Table of Contents](#table-of-contents)
+  - [WXB Own](#wxb-alignment)
+    - [LLM No Finetuning](#No-Finetuning)
+    - [LLM Finetuning](#Finetuning)
   - [Datasets, Benchmarks \& Surveys](#datasets-benchmarks--surveys)
   - [Prompting](#prompting)
   - [General Graph Model](#general-graph-model)
@@ -25,7 +28,7 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
   - [Contributing](#contributing)
   - [Star History](#star-history)
 
-## My Own (LLM+GNN+Alignment)
+## Wxb Alignment
 ### No Finetuning
 - (*arXiv 2024.10*) EAMA : Entity-Aware Multimodal Alignment Based Approach for News Image Captioning [[paper](https://arxiv.org/abs/2402.19404)] [[code](NANA)]
 
