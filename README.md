@@ -1,4 +1,4 @@
-# Awesome-Graph-LLM [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Graph+LLM [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A collection of AWESOME things about **Graph-Related Large Language Models (LLMs)**.
 
