@@ -9,7 +9,7 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
 
 - [Awesome-Graph-LLM ](#awesome-graph-llm-)
   - [Table of Contents](#table-of-contents)
-  - [WXB Own](#wxb-alignment)
+  - [WXB Own(Alignment)](#wxb-alignment)
     - [LLM No Finetuning](#No-Finetuning)
     - [LLM Finetuning](#Finetuning)
   - [Datasets, Benchmarks \& Surveys](#datasets-benchmarks--surveys)
