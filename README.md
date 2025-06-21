@@ -32,7 +32,7 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
 ### No Finetuning
 - (*arXiv 2024.10*) EAMA : Entity-Aware Multimodal Alignment Based Approach for News Image Captioning [[paper](https://arxiv.org/abs/2402.19404)] [[code](NANA)]
 - (*ICML 2023*) BLIP-2: Bootstrapping Language-Image Pre-training  with Frozen Image Encoders and Large Language Models [[paper](https://arxiv.org/abs/2408.14512)] [[code](https://github.com/salesforce/LAVIS/tree/main/projects/blip2)]
-- (*Discover computing*) Automating the Construction of Internet Portals  with Machine Learning [[paper]([https://arxiv.org/abs/2408.14512](https://link.springer.com/article/10.1023/A:1009953814988))] [[code]
+- (*Discover computing*) Automating the Construction of Internet Portals  with Machine Learning [[paper]((https://link.springer.com/article/10.1023/A:1009953814988))] [[code]
 
 ### Finetuning
 - (*NeurlPS 2024*) LLMs as Zero-shot Graph Learners: Alignment of GNN Representations with LLM Token Embeddings [[paper](https://arxiv.org/abs/2402.19404)] [[code](NANA)]
